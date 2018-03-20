@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e4e68241-a98b-40fe-8713-ecf21e7ed501" name="$USER_HOME$/gitRepositories" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="$USER_HOME$/gitRepositories" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
