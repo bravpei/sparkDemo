@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="$USER_HOME$/gitRepositories" uploadOnCheckin="e4e68241-a98b-40fe-8713-ecf21e7ed501">
-    <option name="myUploadOnCheckinName" value="$USER_HOME$/gitRepositories" />
-  </component>
+  <component name="PublishConfigData" serverName="$USER_HOME$/gitRepositories" />
 </project>
